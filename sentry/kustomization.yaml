@@ -6,3 +6,5 @@ helmCharts:
     repo: https://sentry-kubernetes.github.io/charts
     releaseName: sentry
     namespace: epirius
+resources:
+  - http-route.yaml
