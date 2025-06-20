@@ -5,3 +5,4 @@ helmCharts:
   - name: sentry
     repo: https://sentry-kubernetes.github.io/charts
     releaseName: sentry
+    namespace: epirius

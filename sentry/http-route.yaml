@@ -15,5 +15,5 @@ spec:
             type: PathPrefix
             value: /
       backendRefs:
-        - name: sentry-sentry-nginx
+        - name: sentry-nginx
           port: 80
